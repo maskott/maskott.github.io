@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+img.octomike {
+  width: 350px;
+  position: relative;
+  top: 35vh;
+}
